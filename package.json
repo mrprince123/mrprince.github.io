@@ -1,0 +1,28 @@
+{
+  "name": "ronaldo-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "-": "^0.0.1",
+    "browserify": "^17.0.0",
+    "browserify-shim": "^3.8.14",
+    "emailjs-com": "^3.2.0",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrprince123/myportfolioweb1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrprince123/myportfolioweb1/issues"
+  },
+  "homepage": "https://github.com/mrprince123/myportfolioweb1#readme",
+  "description": ""
+}
